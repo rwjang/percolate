@@ -1,3 +1,5 @@
+
+
 test_that("generate_board_mat has correct dimensions for initial parameters", {
   res <- generate_board_mat()
 
